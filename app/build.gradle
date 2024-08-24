@@ -11,8 +11,8 @@ android {
         versionCode 65
         versionName '0.12-prerelease'
         minSdk 19
-        compileSdk 34
-        targetSdk 34
+        compileSdk 35
+        targetSdk 35
         
         def getAppName = {
             def nameArray = project.properties["app.name_byte_array"]
