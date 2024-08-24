@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId 'com.formularsumo.starwarsforcecollectionremake.embed'
         versionCode 66
-        versionName '0.12-prerelease'
+        versionName '0.12'
         minSdk 19
         compileSdk 35
         targetSdk 35
