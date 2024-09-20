@@ -10,7 +10,6 @@
       android:icon="@mipmap/galaxy_collection"
       android:label="Galaxy Collection"
       android:banner="@mipmap/banner"
-      android:appCategory="game"
       android:isGame="true"
       android:usesCleartextTraffic="true"
       android:hardwareAccelerated="true"
